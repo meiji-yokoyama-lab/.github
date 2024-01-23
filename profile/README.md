@@ -1,12 +1,6 @@
-## Hi there 👋
+# 明治大学 理工学部 情報科学科 知的情報処理システム研究室
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## LINK
+* [研究室](https://int.cs.meiji.ac.jp/)
+* [学科](http://www.cs.meiji.ac.jp/lab-j.html)
+* [大学](https://www.meiji.ac.jp/)
